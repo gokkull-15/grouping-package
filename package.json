@@ -1,5 +1,5 @@
 {
-  "name": "@gokul/thiru-utils",
+  "name": "thiru-utils-gokul",
   "version": "1.0.0",
   "description": "A comprehensive TypeScript utility library providing helper functions for arrays, objects, strings, and more",
   "main": "dist/index.js",

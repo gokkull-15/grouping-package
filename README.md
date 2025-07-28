@@ -1,17 +1,17 @@
-# @gokul/thiru-utils
+# thiru-utils-gokul
 
 A comprehensive TypeScript utility library providing helper functions for arrays, objects, strings, and more.
 
 ## Installation
 
 ```bash
-npm install @gokul/thiru-utils
+npm install thiru-utils-gokul
 ```
 
 ## Usage
 
 ```typescript
-import { arrayUtils, objectUtils, stringUtils } from '@gokul/thiru-utils';
+import { arrayUtils, objectUtils, stringUtils } from 'thiru-utils-gokul';
 
 // Array utilities
 const uniqueArray = arrayUtils.unique([1, 2, 2, 3, 3, 4]);
