@@ -1,5 +1,5 @@
 {
-  "name": "thiru",
+  "name": "@gokul/thiru-utils",
   "version": "1.0.0",
   "description": "A comprehensive TypeScript utility library providing helper functions for arrays, objects, strings, and more",
   "main": "dist/index.js",
@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/thiru.git"
+    "url": "git+https://github.com/yourusername/thiru-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/thiru/issues"
+    "url": "https://github.com/yourusername/thiru-utils/issues"
   },
-  "homepage": "https://github.com/yourusername/thiru#readme",
+  "homepage": "https://github.com/yourusername/thiru-utils#readme",
   "files": [
     "dist",
     "README.md",
